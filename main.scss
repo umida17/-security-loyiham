@@ -103,7 +103,12 @@ header{
 main{
     .section1{
         .container{
-            
+            .section1-next{
+                display: flex;
+                align-items: center;
+                gap: 114px;
+                
+            }
         }
     }
 }
