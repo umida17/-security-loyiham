@@ -2,7 +2,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-      font-family: "Coming Soon", cursive;
+     font-family: "Roboto", sans-serif;
 }
 
 .container{
@@ -102,12 +102,64 @@ header{
 
 main{
     .section1{
+        background: rgb(28, 28, 28);
         .container{
             .section1-next{
                 display: flex;
-                align-items: center;
-                gap: 114px;
-                
+                 gap: 90px;
+                margin-top: 120px; 
+                padding-bottom: 190px;
+                .section-left{
+                    margin-top: 100px;
+                    .next{
+                         font-weight: 600;
+                        font-size: 14px;
+                         line-height: 160%;
+                        letter-spacing: 0%;
+                        text-transform: uppercase;
+                        color: #3A68B8;
+                        margin-bottom: 10px;
+                    }
+                    h2{
+                        font-weight: 800;
+                        font-size: 55px;
+                        line-height: 130%;
+                        letter-spacing: 0%;
+                        color: white;
+                        margin-bottom: 40px;
+                        width: 560px;
+                    }
+                    .lorem{
+                         font-weight: 600;
+                        font-size: 18px;
+                         line-height: 160%;
+                        letter-spacing: 0%;
+                        color: #FFFFFF;
+                        margin-bottom: 50px;
+                        width: 500px;
+                    }
+                    .get{
+                        display: flex;
+                        align-items: center;
+                        gap: 20px;
+                        button{
+                            width: 171px;
+                            height: 57px;
+                            color: white;
+                            border-radius: 5px;
+                            background: #3A68B8;
+                            border: none;
+                             font-weight: 600;
+                            font-size: 20px;
+                             line-height: 100%;
+                        }
+                    }
+                }   
+                .section1-right{
+                    img{
+                        width: 100%;
+                    }
+                }   
             }
         }
     }
