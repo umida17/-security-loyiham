@@ -147,4 +147,52 @@ main .section1 .container .logo {
   justify-content: space-between;
   gap: 60px;
   margin-bottom: 99px;
+}
+main .section2 {
+  background: rgb(0, 0, 0);
+}
+main .section2 .container .section2-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 68px;
+  margin-bottom: 150px;
+}
+main .section2 .container .section2-container .section2-left {
+  margin-top: 130px;
+}
+main .section2 .container .section2-container .section2-left img {
+  width: 100%;
+}
+main .section2 .container .section2-container .section2-right {
+  margin-top: 150px;
+}
+main .section2 .container .section2-container .section2-right h3 {
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 130%;
+  letter-spacing: 0%;
+  color: #fff;
+  width: 480px;
+  margin-bottom: 30px;
+}
+main .section2 .container .section2-container .section2-right p {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 160%;
+  letter-spacing: 0%;
+  color: #fff;
+  margin-bottom: 50px;
+  width: 440px;
+}
+main .section2 .container .section2-container .section2-right button {
+  width: 150px;
+  height: 52px;
+  background: #3A68B8;
+  color: white;
+  border-radius: 5px;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 100%;
+  text-align: center;
 }/*# sourceMappingURL=main.css.map */
