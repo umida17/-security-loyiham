@@ -195,4 +195,48 @@ main .section2 .container .section2-container .section2-right button {
   font-size: 16px;
   line-height: 100%;
   text-align: center;
+}
+main .section3 {
+  background: rgb(0, 0, 0);
+}
+main .section3 .cards {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 30px;
+  padding-bottom: 150px;
+}
+main .section3 .cards .card {
+  width: 362px;
+  height: 389px;
+  backdrop-filter: blur(200px);
+  background: rgb(18, 14, 44);
+  border-radius: 5px;
+}
+main .section3 .cards .card img {
+  padding-top: 47px;
+  padding-left: 120px;
+  padding-bottom: 47px;
+}
+main .section3 .cards .card h4 {
+  padding-left: 30px;
+  padding-right: 30px;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 125%;
+  letter-spacing: 0%;
+  text-align: center;
+  color: #FFFFFF;
+  margin-bottom: 30px;
+}
+main .section3 .cards .card p {
+  padding-left: 20px;
+  padding-right: 20px;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 160%;
+  letter-spacing: 0%;
+  text-align: center;
+  width: 310px;
+  color: #FFFFFF;
 }/*# sourceMappingURL=main.css.map */
