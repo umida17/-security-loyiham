@@ -379,4 +379,64 @@ main .section3 .cards .card4 p {
   text-align: center;
   width: 310px;
   color: #FFFFFF;
+}
+main .section4 {
+  background: rgb(0, 0, 0);
+}
+main .section4 .container .section4-container {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 120px;
+  padding-bottom: 170px;
+}
+main .section4 .container .section4-container .clents {
+  padding-top: 44px;
+}
+main .section4 .container .section4-container .clents h5 {
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 130%;
+  letter-spacing: 0%;
+  color: #FFFFFF;
+  width: 540px;
+  margin-bottom: 40px;
+}
+main .section4 .container .section4-container .clents .take {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 160%;
+  letter-spacing: 0%;
+  color: #FFFFFF;
+  margin-bottom: 20px;
+  width: 420px;
+}
+main .section4 .container .section4-container .clents .ipsum {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 160%;
+  letter-spacing: 0%;
+  color: #FFFFFF;
+  margin-bottom: 20px;
+  width: 420px;
+}
+main .section4 .container .section4-container .clents .visual {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 160%;
+  letter-spacing: 0%;
+  color: #FFFFFF;
+  margin-bottom: 20px;
+  width: 420px;
+}
+main .section4 .container .section4-container .clents .text {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 160%;
+  letter-spacing: 0%;
+  color: #FFFFFF;
+  margin-bottom: 20px;
+  width: 420px;
+}
+main .section4 .container .section4-container img {
+  width: 50%;
 }/*# sourceMappingURL=main.css.map */
