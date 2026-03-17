@@ -239,4 +239,144 @@ main .section3 .cards .card p {
   text-align: center;
   width: 310px;
   color: #FFFFFF;
+}
+main .section3 .cards .card1 {
+  width: 362px;
+  height: 389px;
+  backdrop-filter: blur(200px);
+  background: rgb(18, 14, 44);
+  border-radius: 5px;
+}
+main .section3 .cards .card1 img {
+  padding-top: 37px;
+  padding-left: 120px;
+  padding-bottom: 37px;
+}
+main .section3 .cards .card1 h4 {
+  width: 300px;
+  padding-left: 30px;
+  padding-right: 30px;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 125%;
+  letter-spacing: 0%;
+  text-align: center;
+  color: #FFFFFF;
+  margin-bottom: 25px;
+}
+main .section3 .cards .card1 p {
+  padding-left: 20px;
+  padding-right: 20px;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 160%;
+  letter-spacing: 0%;
+  text-align: center;
+  width: 310px;
+  color: #FFFFFF;
+}
+main .section3 .cards .card2 {
+  width: 362px;
+  height: 389px;
+  backdrop-filter: blur(200px);
+  background: rgb(18, 14, 44);
+  border-radius: 5px;
+}
+main .section3 .cards .card2 img {
+  padding-top: 30px;
+  padding-left: 120px;
+  padding-bottom: 30px;
+}
+main .section3 .cards .card2 h4 {
+  width: 300px;
+  padding-left: 30px;
+  padding-right: 30px;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 125%;
+  letter-spacing: 0%;
+  text-align: center;
+  color: #FFFFFF;
+  margin-bottom: 25px;
+}
+main .section3 .cards .card2 p {
+  padding-left: 20px;
+  padding-right: 20px;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 160%;
+  letter-spacing: 0%;
+  text-align: center;
+  width: 310px;
+  color: #FFFFFF;
+}
+main .section3 .cards .card3 {
+  width: 362px;
+  height: 389px;
+  backdrop-filter: blur(200px);
+  background: rgb(18, 14, 44);
+  border-radius: 5px;
+}
+main .section3 .cards .card3 img {
+  padding-top: 30px;
+  padding-left: 120px;
+  padding-bottom: 30px;
+}
+main .section3 .cards .card3 h4 {
+  width: 300px;
+  padding-left: 30px;
+  padding-right: 30px;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 125%;
+  letter-spacing: 0%;
+  text-align: center;
+  color: #FFFFFF;
+  margin-bottom: 25px;
+}
+main .section3 .cards .card3 p {
+  padding-left: 20px;
+  padding-right: 20px;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 160%;
+  letter-spacing: 0%;
+  text-align: center;
+  width: 310px;
+  color: #FFFFFF;
+}
+main .section3 .cards .card4 {
+  width: 362px;
+  height: 389px;
+  backdrop-filter: blur(200px);
+  background: rgb(18, 14, 44);
+  border-radius: 5px;
+}
+main .section3 .cards .card4 img {
+  padding-top: 30px;
+  padding-left: 120px;
+  padding-bottom: 30px;
+}
+main .section3 .cards .card4 h4 {
+  width: 300px;
+  padding-left: 30px;
+  padding-right: 30px;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 125%;
+  letter-spacing: 0%;
+  text-align: center;
+  color: #FFFFFF;
+  margin-bottom: 25px;
+}
+main .section3 .cards .card4 p {
+  padding-left: 20px;
+  padding-right: 20px;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 160%;
+  letter-spacing: 0%;
+  text-align: center;
+  width: 310px;
+  color: #FFFFFF;
 }/*# sourceMappingURL=main.css.map */
