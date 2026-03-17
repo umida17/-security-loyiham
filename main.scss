@@ -102,7 +102,7 @@ header{
 
 main{
     .section1{
-        background: rgb(28, 28, 28);
+        background: rgb(38, 38, 38);
         .container{
             .section1-next{
                 display: flex;
@@ -161,6 +161,14 @@ main{
                     }
                 }   
             }
+            .logo{
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+                gap: 60px;
+                margin-bottom: 99px;
+            }
         }
     }
+    
 }

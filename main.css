@@ -84,7 +84,7 @@ header .container .header-container .header-navbar button::before {
 }
 
 main .section1 {
-  background: rgb(28, 28, 28);
+  background: rgb(38, 38, 38);
 }
 main .section1 .container .section1-next {
   display: flex;
@@ -140,4 +140,11 @@ main .section1 .container .section1-next .section-left .get button {
 }
 main .section1 .container .section1-next .section1-right img {
   width: 100%;
+}
+main .section1 .container .logo {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 60px;
+  margin-bottom: 99px;
 }/*# sourceMappingURL=main.css.map */
