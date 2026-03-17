@@ -1,1 +1,35 @@
-/*# sourceMappingURL=main.css.map */
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  max-width: 1170px;
+  margin: 0 auto;
+  padding: 15px;
+}
+
+header {
+  backdrop-filter: blur(200px);
+  background: rgb(31, 31, 31);
+}
+header .container .header-container .header-navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+header .container .header-container .header-navbar ul {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+  list-style: none;
+}
+header .container .header-container .header-navbar ul a {
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  color: white;
+}/*# sourceMappingURL=main.css.map */
