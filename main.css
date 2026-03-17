@@ -665,4 +665,9 @@ footer .container .finish .about .icon {
 }
 footer .container .finish .about .icon i {
   color: white;
+}
+footer .container .finish .about select {
+  border: none;
+  background: none;
+  color: #fff;
 }/*# sourceMappingURL=main.css.map */
